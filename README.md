@@ -42,6 +42,16 @@ My current focus centers around **Full-Stack Web Development, Data Structures & 
 
 ---
 
+## AI Tools & Models
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />&nbsp;
+  <img src="https://img.shields.io/badge/Codex-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />&nbsp;
+  <img src="https://img.shields.io/badge/Antigravity-4F46E5?style=for-the-badge&logo=probot&logoColor=white" alt="Antigravity" />
+</p>
+
+---
+
 ## Tools & Technologies
 
 <p align="left">
@@ -60,3 +70,13 @@ My current focus centers around **Full-Stack Web Development, Data Structures & 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=sufyanfiverr2-sketch&theme=github-dark-blue&hide_border=true&background=0D1117&ring=A9B1BA&fire=A9B1BA&currStreakLabel=A9B1BA&sideLabels=8b949e&dates=8b949e" width="60%" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sufyanfiverr2-sketch&color=A9B1BA&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
+</div>

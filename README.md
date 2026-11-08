@@ -2,10 +2,7 @@
 
 # Muhammad Sufyan
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A9B1BA&center=true&vCenter=true&width=560&lines=Software+Engineer;GIKI+Student;Full-Stack+Web+Developer;C%2B%2B+%26+Python+Developer;Content+Creator+%26+Video+Editor;Problem+Solver"
-  alt="Typing SVG"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A9B1BA&center=true&vCenter=true&width=560&lines=Software+Engineer;GIKI+Student;Full-Stack+Web+Developer;C%2B%2B+%26+Python+Developer;Content+Creator+%26+Video+Editor;Problem+Solver" alt="Typing SVG" />
 
 </div>
 
@@ -32,12 +29,7 @@ My interests include **Full-Stack Web Development, Data Structures & Algorithms,
 ## Languages
 
 <p align="left">
-
-<img
-  src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,c,javascript,typescript,html,css&theme=dark&perline=8"
-  alt="Programming Languages"
-/>
-
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,c,javascript,typescript,html,css&theme=dark&perline=8" alt="Programming Languages" />
 </p>
 
 ---
@@ -45,18 +37,4 @@ My interests include **Full-Stack Web Development, Data Structures & Algorithms,
 ## Tools & Technologies
 
 <p align="left">
-
-<img
-  src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,figma,postman,react,nodejs,tailwind&theme=dark&perline=8"
-  alt="Tools and Technologies"
-/>
-
-</p>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&ring=A9B1BA&fire=A9B1BA&currStreakLabel=A9B1BA&sideLabels=8b949e&dates=8b949e" width="60%" alt="
+<img src="

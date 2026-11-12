@@ -47,6 +47,22 @@ My interests include **Full-Stack Web Development, Data Structures & Algorithms,
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sufyanfiverr2-sketch&theme=github-dark-blue&hide_border=true&background=0D1117&ring=A9B1BA&fire=A9B1BA&currStreakLabel=A9B1BA&sideLabels=8b949e&dates=8b949e" width="60%" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sufyanfiverr2-sketch&color=A9B1BA&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
+</div>
+
 ## Tools & Technologies
 
 <p align="left">

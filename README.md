@@ -56,7 +56,7 @@ My interests include **Full-Stack Web Development, Data Structures & Algorithms,
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_NEW_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&ring=A9B1BA&fire=A9B1BA&currStreakLabel=A9B1BA&sideLabels=8b949e&dates=8b949e" width="60%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=MS4J&theme=github-dark-blue&hide_border=true&background=0D1117&ring=A9B1BA&fire=A9B1BA&currStreakLabel=A9B1BA&sideLabels=8b949e&dates=8b949e" width="60%" alt="GitHub Streak" />
 
 </div>
 
@@ -64,6 +64,6 @@ My interests include **Full-Stack Web Development, Data Structures & Algorithms,
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_NEW_GITHUB_USERNAME&color=A9B1BA&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=MS4J&color=A9B1BA&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 </div>

@@ -1,3 +1,23 @@
+<div align="center">
+
+# Muhammad Sufyan
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A9B1BA&center=true&vCenter=true&width=560&lines=Software+Engineer;GIKI+Student;Full-Stack+Web+Developer;C%2B%2B+%26+Python+Developer;Content+Creator+%26+Video+Editor;Problem+Solver"
+  alt="Typing SVG"
+/>
+
+</div>
+
+---
+
+## About Me
+
+I'm a **Software Engineer** and **GIKI student** passionate about building robust web applications, exploring core software engineering principles, and creating high-impact digital content.
+My interests include **Full-Stack Web Development, Data Structures & Algorithms, Clean Architecture, and Visual Storytelling**. I enjoy designing efficient systems and turning complex problems into intuitive, user-friendly solutions.
+
+---
+
 ## Connect With Me
 
 <p align="left">
@@ -17,8 +37,22 @@
 
 ---
 
+## AI Tools & Models
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />&nbsp;
+  <img src="https://img.shields.io/badge/Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />&nbsp;
+  <img src="https://img.shields.io/badge/Antigravity-5865F2?style=for-the-badge&logo=robot&logoColor=white" alt="Antigravity" />
+</p>
+
+---
+
 ## Tools & Technologies
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,react,nodejs,tailwind&theme=dark&perline=8" alt="Tools and Technologies" />
 </p>
+
+---
+
+## GitHub Stats
